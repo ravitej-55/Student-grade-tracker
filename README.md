@@ -1,2 +1,2 @@
 # Student-grade-tracker
-Java console program to tracker the grades of student.
+Java console program to track the grades of student.
